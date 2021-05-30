@@ -1,6 +1,5 @@
 const path = require('path')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
-const { truncate } = require('fs')
 
 module.exports = (env) => {
     const isProduction = env === 'production'

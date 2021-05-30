@@ -1,7 +1,8 @@
 import React from 'react' 
 import moment from 'moment'
-import {SingleDatePicker} from 'react-dates'
 import 'react-dates/initialize'
+import {SingleDatePicker} from 'react-dates'
+
 //import { parse } from 'uuid'
 
 // const now = moment()
